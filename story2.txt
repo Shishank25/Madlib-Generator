@@ -1,0 +1,5 @@
+In a faraway land, there was a <adjective1> wizard named <name1>. One day, <name1> decided to create a magic potion. 
+The ingredients included a <adjective2> <noun1>, <number> drops of <liquid>, and a sprinkle of <noun2>. 
+When <name1> mixed them together, the potion turned <color> and started to <verb1>. 
+Suddenly, a <adjective3> puff of smoke appeared, and out came a <adjective4> <creature>. 
+It granted <name1> <number2> wishes, and the first wish was for a <adjective5> <noun3>.
